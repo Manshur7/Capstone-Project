@@ -1,4 +1,3 @@
-Repository Created!
 # LUMI Monitor Blog
 
 #### Blog Entry #1 (2019/09/10)
@@ -13,4 +12,4 @@ Created [Project Schedule]()
 
 Created [Project Budget](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/Budget.xlsx)
 
-Hello peeps :>>>]
+
