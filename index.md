@@ -12,4 +12,11 @@ Created [Project Schedule]()
 
 Created [Project Budget](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/Budget.xlsx)
 
+#### Blog Entry #4 (2019/10/01)
+
+Created [Proof Of Purchase for dht22](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/dht22.png
+)
+
+Created [Proof of Purchase for RPI 3B+](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rpi3.png)
+
 
