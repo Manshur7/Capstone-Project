@@ -16,6 +16,6 @@ Created [Project Budget](https://github.com/Manshur7/Capstone-Project/blob/maste
 
 Created Proofs Of Purchases:
 
-[ Temperature & Humidity Sensor dht22](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/dht22.png) &
-[ Raspberry PI version 3B+](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rpi3.png)
+[1.Temperature & Humidity Sensor dht22](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/dht22.png) &
+[2.Raspberry PI version 3B+](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rpi3.png)
 
