@@ -7,6 +7,7 @@
 ##### During week 5, we were supposed to have ordered our parts from our manufacturers and have a receipt which acknowledged the latter. Below are the 2 parts I will be using.
 
 Proof Of Purchases:
+
 [1.Temperature & Humidity Sensor dht22](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/dht22.png)
 
 [2.Raspberry PI version 3B+](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rpi3.png)
