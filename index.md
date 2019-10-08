@@ -28,7 +28,7 @@ Proof Of Purchases:
 [Project Proposal](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/ProposalCapstoneLumi.xlsx).
 
 #### Blog Entry #0 (2019/09/03)
-#####
+##### Hello there, this is the first week of the Capstone project. We have been introduced to the various available projects and have until next week to choose one. We are currently thinking about the Lumi Monitor which looks like not only a creative but also an achievable project. Please check in next week to see the progress and our actual choice.
 
 
 
