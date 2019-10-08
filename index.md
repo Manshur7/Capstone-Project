@@ -1,6 +1,9 @@
-                                                    # LUMI Monitor Blog
+                                                    #LumiMonitor Blog
 
 ### Hello everyone, welcome to my Capstone Project Weblog. This blog will be used to monitor each and every step of my final year project and help you follow along to how I completed this task. It will be updated on a weekly basis for the most part as I complete the set targets based off my course outline.
+
+#### Blog Entry #5 (2019/10/08)
+#####
 
 
 #### Blog Entry #4 (2019/10/01)
