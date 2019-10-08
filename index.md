@@ -18,7 +18,7 @@ Created [Project Budget](https://github.com/Manshur7/Capstone-Project/blob/maste
 
 #### Blog Entry #2 (2019/09/17)
 
-Created [Project Schedule]()
+Created [Project Schedule](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/Project%20Schedule)
 
 #### Blog Entry #1 (2019/09/10)
 
