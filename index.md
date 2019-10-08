@@ -23,10 +23,13 @@ Proof Of Purchases:
 [Project Schedule](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/Project%20Schedule)
 
 #### Blog Entry #1 (2019/09/10)
-##### 
+##### Hi there, welcome to week 2 of the Capstone Project. During the past week and the current one, we were supposed to have decided which project we were going to work on and choose the one we found reasonable and feasible. We chose the Lumi Monitor project as we had some ideas on how to approach this particular problem. Therefore, we decided to go forward with the lumi monitor and below is a link to the detailed proposal for the project.
 
+[Project Proposal](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/ProposalCapstoneLumi.xlsx).
 
-Created [Project Proposal](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/ProposalCapstoneLumi.xlsx).
+#### Blog Entry #0 (2019/09/03)
+#####
+
 
 
 
