@@ -3,7 +3,9 @@
 ### Hello everyone, welcome to my Capstone Project Weblog. This blog will be used to monitor each and every step of my final year project and help you follow along to how I completed this task. It will be updated on a weekly basis for the most part as I complete the set targets based off my course outline.
 
 #### Blog Entry #5 (2019/10/08)
-#####
+##### For week 6, we had to upload images of our designed Printed Circuit Boards as well as the circuit diagram with all the necessarry connections. Please follow the link to the images:
+[1] (https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/breadboard%20dht22.PNG)
+[2] (https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb.PNG)
 
 
 #### Blog Entry #4 (2019/10/01)
@@ -16,7 +18,7 @@ Proof Of Purchases:
 [2.Raspberry PI version 3B+](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rpi3.png)
 
 #### Blog Entry #3 (2019/09/24)
-##### Welcome to week 4, during this week we had to plan a reasonable budget which contained the parts we were going to buy and was to be appeoved by our professor, Kristian Medri. Below is a link to my detailed budget plan.
+##### Welcome to week 4, during this week we had to plan a reasonable budget which contained the parts we were going to buy and was to be approved by our professor, Kristian Medri. Below is a link to my detailed budget plan.
 
 [Project Budget](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/Budget.xlsx)
 
