@@ -5,6 +5,7 @@
 #### Blog Entry #5 (2019/10/08)
 ##### For week 6, we had to upload images of our designed Printed Circuit Boards as well as the circuit diagram with all the necessarry connections. Please follow the link to the images:
 [1] (https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/breadboard%20dht22.PNG)
+
 [2] (https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb.PNG)
 
 
