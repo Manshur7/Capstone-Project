@@ -7,7 +7,7 @@
 
 [1. Breadboard View](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/breadboard%20dht22.PNG)
 
-[2. Printed Circuit Board](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb.PNG)
+[2. Printed Circuit Board](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb1.PNG)
 
 
 #### Blog Entry #4 (2019/10/01)
