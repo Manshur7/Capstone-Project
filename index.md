@@ -5,7 +5,7 @@
 #### Blog Entry #7 (2019/10/29)
 ##### After the reading week, which we used to assemble the breadboards and finalize the design as well as fixing connection issues with the rpi and computers. For week 8, we had to demo how our breadboard was working and the readings( which I didn't have at the time.)
 
-[1.Breadboard Design]
+[1.Breadboard Design](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/expected.PNG)
 [2.Expected Result]
 [3.Actual Result] 
 
