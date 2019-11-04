@@ -2,6 +2,17 @@
 
 ### Hello everyone, welcome to my Capstone Project Weblog. This blog will be used to monitor each and every step of my final year project and help you follow along to how I completed this task. It will be updated on a weekly basis for the most part as I complete the set targets based off my course outline.
 
+#### Blog Entry #7 (2019/10/29)
+##### After the reading week, which we used to assemble the breadboards and finalize the design as well as fixing connection issues with the rpi and computers. For week 8, we had to demo how our breadboard was working and the readings( which I didn't have at the time.)
+
+[1.Breadboard Design]
+[2.Expected Result]
+[3.Actual Result] 
+
+#### Blog Entry #6 (2019/10/15)
+##### Week 7 had us download the OS for our development platforms. We also had to design and assemble the Breadboarded part of the project to demonstrate the connectivity of our platforms to the sensors and how readings were being taken.
+
+
 #### Blog Entry #5 (2019/10/08)
 ##### For week 6, we had to upload images of our designed Printed Circuit Boards as well as the circuit diagram with all the necessarry connections. Please follow the link to the images:
 
