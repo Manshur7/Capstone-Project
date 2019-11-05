@@ -7,9 +7,8 @@
 
 [1.Breadboard Design](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/breadboard.PNG)
 
-[2.Expected Result](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/expected.PNG)
+[2.Readings from Sensor](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/output.PNG)
 
-[3.Actual Result](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/actual.PNG)
 
 #### Blog Entry #6 (2019/10/15)
 ##### Week 7 had us download the OS for our development platforms. We also had to design and assemble the Breadboarded part of the project to demonstrate the connectivity of our platforms to the sensors and how readings were being taken.
