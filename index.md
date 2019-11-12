@@ -2,6 +2,9 @@
 
 ### Hello everyone, welcome to my Capstone Project Weblog. This blog will be used to monitor each and every step of my final year project and help you follow along to how I completed this task. It will be updated on a weekly basis for the most part as I complete the set targets based off my course outline.
 
+#### Blog Entry #8 (2019/11/5)
+##### During week 8 we had to design our PCBs and get them done and available for soldering. Week 9 was based on soldering our PCB with the respective headers in order to accomodate the sensors and the Raspberry Pi. Soldering was completed during week 9 but unfortunately I ran into in issue with my raspberry pi connection to any kind of virtual connection.(Still working on it.)
+
 #### Blog Entry #7 (2019/10/29)
 ##### After the reading week, which we used to assemble the breadboards and finalize the design as well as fixing connection issues with the rpi and computers. For week 8, we had to demo how our breadboard was working and the readings( which I didn't have at the time.)
 
