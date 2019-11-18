@@ -2,11 +2,18 @@
 
 ### Hello everyone, welcome to my Capstone Project Weblog. This blog will be used to monitor each and every step of my final year project and help you follow along to how I completed this task. It will be updated on a weekly basis for the most part as I complete the set targets based off my course outline.
 
+#### Blog Entry #9 (2019/11/12)
+##### Week 10.After successfully soldering the PCB connections, we had to design an enclosure for our development platform and the PCB and sensor. However, my sensor being a temp. & humidity sensor, I found it quite odd to cover as it would affect accuracy of readings.I also managed to fix the connection issue I was having with the RPI.
+
+[Enclosure model]()
+[Final state of enclosure with PCB & Sensor]()
+
 #### Blog Entry #8 (2019/11/5)
-##### During week 8 we had to design our PCBs and get them done and available for soldering. Week 9 was based on soldering our PCB with the respective headers in order to accomodate the sensors and the Raspberry Pi. Soldering was completed during week 9 but unfortunately I ran into an issue with my raspberry pi connection to any kind of virtual connection.(Still working on it.)
-<p>
-    <img src="github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb3.png" width="220" height="240" />
-</p>
+##### During week 8 & 9, we had to design our PCBs and get them done and available for soldering. Next up we would be soldering during week 9 but unfortunately I ran into an issue with my raspberry pi connection to any kind of virtual connection.(Still working on it at that point.)For week 9,our previously designed PCBs were meant to be soldered during lab time with the respective headers in order to accomodate the sensor(s) and the Raspberry Pi.
+
+[PCB Design](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb1.PNG)
+[Soldered PCB top](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb3.png)
+[Soldered PCB bottom](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb2.png)
 
 #### Blog Entry #7 (2019/10/29)
 ##### After the reading week, which we used to assemble the breadboards and finalize the design as well as fixing connection issues with the rpi and computers. For week 8, we had to demo how our breadboard was working and the readings( which I didn't have at the time.)
