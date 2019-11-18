@@ -2,17 +2,25 @@
 
 ### Hello everyone, welcome to my Capstone Project Weblog. This blog will be used to monitor each and every step of my final year project and help you follow along to how I completed this task. It will be updated on a weekly basis for the most part as I complete the set targets based off my course outline.
 
-#### Blog Entry #9 (2019/11/12)
-##### Week 10.After successfully soldering the PCB connections, we had to design an enclosure for our development platform and the PCB and sensor. However, my sensor being a temp. & humidity sensor, I found it quite odd to cover as it would affect accuracy of readings.I also managed to fix the connection issue I was having with the RPI.
+#### Blog Entry #10 (2019/11/19)
+##### Week 11.After having demonstrated that the PCB connections were working, we had to design an enclosure for our development platform,the PCB and sensor. However, my sensor being a temperature & humidity sensor, I found it quite odd to cover as it would affect accuracy of readings, threfore, decided to leave it open.Having encountered a few problems regarding my PCB and the power up but fixed them with a little help from Vlad from the prototype lab.(Note: I also managed to fix the connection issue I was having with the RPI.)
 
-[Enclosure model]()
-[Final state of enclosure with PCB & Sensor]()
+[Enclosure model](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/case%20model.PNG)
+
+[Final state of enclosure with PCB & Sensor 1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/case1.PNG)
+
+[Final state of enclosure with PCB & Sensor 2](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/case2.PNG)
+
+#### Blog Entry #9 (2019/11/12)
+##### Week 10.After successfully soldering the PCB connections, we had to demonstrate that our PCB was working and that we could pull the readings from our sensors. Unfortunately, I couldn't prove at that time as my connection and PCB had a few problems. Also progress report was due.
 
 #### Blog Entry #8 (2019/11/5)
 ##### During week 8 & 9, we had to design our PCBs and get them done and available for soldering. Next up we would be soldering during week 9 but unfortunately I ran into an issue with my raspberry pi connection to any kind of virtual connection.(Still working on it at that point.)For week 9,our previously designed PCBs were meant to be soldered during lab time with the respective headers in order to accomodate the sensor(s) and the Raspberry Pi.
 
 [PCB Design](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb1.PNG)
+
 [Soldered PCB top](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb3.png)
+
 [Soldered PCB bottom](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb2.png)
 
 #### Blog Entry #7 (2019/10/29)
