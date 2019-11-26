@@ -2,6 +2,11 @@
 
 ### Hello everyone, welcome to my Capstone Project Weblog. This blog will be used to monitor each and every step of my final year project and help you follow along to how I completed this task. It will be updated on a weekly basis for the most part as I complete the set targets based off my course outline.
 
+#### Blog Entry #11 (2019/11/26)
+##### Week 12.Presentation Week.
+[Presentation](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/CENG%20317.pptx)
+
+
 #### Blog Entry #10 (2019/11/19)
 ##### Week 11.After having demonstrated that the PCB connections were working, we had to design an enclosure for our development platform,the PCB and sensor. However, my sensor being a temperature & humidity sensor, I found it quite odd to cover as it would affect accuracy of readings, threfore, decided to leave it open.Having encountered a few problems regarding my PCB and the power up but fixed them with a little help from Vlad from the prototype lab.(Note: I also managed to fix the connection issue I was having with the RPI.)
 
