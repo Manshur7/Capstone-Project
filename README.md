@@ -20,13 +20,15 @@ Concerning software, in order to use ssh connection to my raspberry pi, I had to
 # Bill of Materials
 Raspberry Pi 3 Kit $107 <br/>
 DHT22 Temperature & Humidity Sensor $32 <br/>
+[1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/budget.PNG)
 
 Proof of purchase for the required components : <br/>
 ![1](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rpi3.png)
-![2](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/dht22.png) 
+![2](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/dht22.png) <br/>
+Later on, I added a few screws to the purchase to be able to complete the casing for the development platform & Sensor.
 
 # Time Commitment
-Even though I had stated that it would take me 15 weeks to fully complete this project with its instruction, after having worked on it, the project can be fresh started and be finished within 3-5 weeks or even less. Acquiring the necessarry parts, PCB printing and PCB soldering plays a major part in completion of the project. <br/>
+Even though I stated that it would take me 15 weeks to fully complete this project with its instruction, after having worked on it, I can say that the project can be fresh started and be finished within 3-5 weeks or even less. Acquiring the necessarry parts, PCB printing and PCB soldering plays a major part in completion of the project. Having any relevant experience with any of the aforementioned elements will decrease completion time <br/>
 
 # Mechanical Assembly
 The DHT22 was to be connected to a 4 pin header which was soldered on the pcb. In addition, I have soldered an 8 pin header which is directly plugged on to my Rpi also on the PCB. There is also a 10K resistor which limits the voltage flow to my sensor. This is done to avoid burning my sensor as it is recommended to supply a voltage of 3.3v but mostly as a measure of security <br/>
