@@ -11,7 +11,7 @@
 8.  [Production Testing](#Production-Testing)
 
 # Introduction
-I chose this Lumi project as it was a way to help young parents monitor the optimum conditions required for the well being of their children & as it would make use of intesting types of sensors.
+I chose this Lumi project as it would be a way to help young parents monitor the optimum conditions required for the well being of their children & as it would make use of intesting types of sensors.
 
 Sensor used: ![1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/dht22Sensor.PNG) <br/>
 
@@ -20,7 +20,7 @@ Concerning software, in order to use ssh connection to my raspberry pi, I had to
 # Bill of Materials
 Raspberry Pi 3 Kit $107 <br/>
 DHT22 Temperature & Humidity Sensor $32 <br/>
-[1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/budget.PNG)
+![1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/budget.PNG)
 
 Proof of purchase for the required components : <br/>
 ![1](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rpi3.png)
