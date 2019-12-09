@@ -62,4 +62,4 @@ To securely test whether the sensor is working appropriately, here is a checklis
 4.Make sure there is a 10K Ohm resistor in between pin 2(Data Line) & pin 1(Power) of the DHT22 <br/>
 ![individual test](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/breadboard.PNG)<br/>
 Below is an example of the first run of the circuit connected in this fashion and the direct code:<br/>
-![test run]((https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/output.PNG))
+![test run](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/output.PNG)
