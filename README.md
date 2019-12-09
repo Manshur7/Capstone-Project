@@ -51,7 +51,6 @@ CODE HERE
 
 ```
 And this is the result of the working code:<br/>
-```
 ![power up result](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/output.PNG)
-```
+
 
