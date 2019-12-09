@@ -42,3 +42,16 @@ Please make sure to follow the soldering instructions and safety before solderin
 This is how my PCB looks after soldering: <br/>
 ![frontpcb](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb3.png)
 ![backpcb](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb2.png)
+
+# Power Up
+I had a few issues setting up the Raspberry Pi to work with my sensor properly. However, after some troubleshooting I was able to get rid of a connection issue which solved the problem.
+Here is my code for pulling readings from the sensor and displaying them:<br/>
+``` 
+CODE HERE
+
+```
+And this is the result of the working code:<br/>
+```
+![power up result](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/output.PNG)
+```
+
