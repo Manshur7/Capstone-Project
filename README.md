@@ -141,7 +141,7 @@ As you can see on the picture below this is what the final compact case will loo
 <br/>
 However, If the same project is being manufactured in a larger quantity, soldering could be done through machine intervention to speed up the process. Also, a mass testing of the project can be done by connecting every single one to Wi-Fi, and connecting to them through remote desktop connection.
 In general, the project is reproducible by following the above instructions. As I have explained above, setting up raspberry pi, remote desktop connection to work with the project is time consuming, but I believe that if you follow the instructions perfectly, this project would require a working time between 3-5 weeks depending on whether the required parts arrive within the time frame.Please refer to the following websites if you encounter problem while using the component:<br/>
-[2](https://learn.adafruit.com/dht?view=all)
+(https://learn.adafruit.com/dht?view=all)
 <br/>
 Result of working final code:<br/>
-[3](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/demo.PNG)
+![power up result](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/demo.PNG)
