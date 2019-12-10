@@ -33,8 +33,12 @@ Even though I stated that it would take me 15 weeks to fully complete this proje
 ![Schedule](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/schedule.png)
 
 # Mechanical Assembly
-The DHT22 was to be connected to a 4 pin header which was soldered on the pcb. In addition, I have soldered an 8 pin header which is directly plugged on to my Rpi also on the PCB. There is also a 10K resistor which limits the voltage flow to my sensor. This is done to avoid burning my sensor as it is recommended to supply a voltage of 3.3v but mostly as a measure of security <br/>
-After designing my case, which included both a 3D printed bottom and an acrylic top(Done at the Idea Lab & Prototype Lab), I had to use 2 screws to hold the broadcom development platform in place and on top of these two screws,I mounted the top layer of acrylic which would then cover the RPI and part of the PCB.
+The DHT22 is to be connected to a 4 pin header which was soldered on the pcb. In addition, I have soldered an 8 pin header which is directly plugged on to my Raspberry Pi also on the PCB. There is also a 10K resistor which limits the voltage flow to my sensor. This is done to avoid burning my sensor as it is recommended to supply a voltage of 3.3v but mostly as a measure of security <br/>
+After designing my case, which included both a 3D printed bottom(Done at the Idea Lab):<br/>
+![case1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/case1.PNG)<br/>
+And an acrylic top(Done at the Prototype Lab):<br/>
+![case](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/case2.PNG)<br/>
+I had to use 2 screws to hold the broadcom development platform in place and on top of these two screws,I mounted the top layer of acrylic which would then cover the RPI and part of the PCB.
 
 # PCB Soldering
 For designing the printed circuit board, I have made use of the software Fritzing as it is a user friendly software to help design and print my pcb. The printed pcb required Gerber files which the printing machine will recognize. <br/>
@@ -130,6 +134,9 @@ To securely test whether the sensor is working appropriately, here is a checklis
 Below is an example of the first run of the circuit connected in this fashion and the direct code:<br/>
 ![test run](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/output.PNG)
 
-# Prodcution Testing
-
+# Production Testing
+This section cover the whole of the project wrapped up.
+As you can see on the picture below this is what the final compact case will look like:<br/>
 ![case](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/prod.PNG)
+<br/>
+However, If the same project is being manufactured in a larger quantity, soldering could be done through machine intervention to speed up the process. Also, a mass testing of the project can be done by connecting every single one to Wi-Fi, and connecting to them through remote desktop connection.
