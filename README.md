@@ -15,7 +15,7 @@
 # Introduction
 I chose this Lumi Monitor project as it would be a way to help young parents keep track of the optimum conditions required for the well being of their children & as it would make use of intesting types of sensors.
 
-Sensor used:<br/>
+Sensor DHT22/AM2302:<br/>
 ![1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/dht22Sensor.PNG) <br/>
 
 Concerning software, in order to use ssh connection to my raspberry pi, I had to enable ssh and install xrdp on my raspberry pi before I could get connected. Moreover, I developped the code in python therefore had to install the apropriate libraries for the DHT22 to run in Pyhton.More datails about the whole idea can be found under the [Power Up](#Power-Up) section.
