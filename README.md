@@ -44,8 +44,9 @@ I had to use 2 screws to hold the broadcom development platform in place and on 
 
 # PCB Soldering
 For designing the printed circuit board, I have made use of the software Fritzing as it is a user friendly software to help design and print my pcb. The printed pcb required Gerber files which the printing machine will recognize(Can be found here: https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/ManshurRamhith_Lumi.zip.zip) <br/>
+For example Pcb Design:<br/>
 ![Pcb Design](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb1.PNG)
-
+<br/>
 Please make sure to follow the soldering instructions and safety before soldering your pcb. Remember to wear the safety glass. <br/>
 This is how my PCB looks after soldering: <br/>
 ![frontpcb](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb3.png)
