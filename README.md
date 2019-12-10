@@ -70,7 +70,7 @@ while True:
 
 ```
 And this is the result of the working code:<br/>
-![power up result]
+![power up result](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/demo.PNG)
 
 
 # Unit Testing
