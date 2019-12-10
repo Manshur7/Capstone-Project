@@ -47,7 +47,26 @@ This is how my PCB looks after soldering: <br/>
 I had a few issues setting up the Raspberry Pi to work with my sensor properly. However, after some troubleshooting I was able to get rid of a connection issue which solved the problem.
 Here is my code for pulling readings from the sensor and displaying them:<br/>
 ``` 
-CODE HERE
+#Imports for sensor & Delay
+import Adafruit_DHT
+from time import sleep
+
+#Assigning pin number and sensor type
+DHT_SENSOR = Adafruit_DHT.DHT22
+DHT_PIN = 4
+
+#Main
+print("		Starting Temperature & Humidity Sensing...")
+print("Pulling Readings every 3 seconds")
+while True:
+    #3 seconds delay in between getting readings
+    sleep(3)
+    humidity, temperature = Adafruit_DHT.read_retry(DHT_SENSOR, DHT_PIN)
+
+    if humidity is not None and temperature is not None:
+        print("Temp={0:0.1f}*C  Humidity={1:0.1f}%".format(temperature, humidity))
+    else:
+        print("Failed to retrieve data from Sensor")
 
 ```
 And this is the result of the working code:<br/>
