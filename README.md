@@ -43,7 +43,7 @@ And an acrylic top(Done at the Prototype Lab):<br/>
 I had to use 2 screws to hold the broadcom development platform in place and on top of these two screws,I mounted the top layer of acrylic which would then cover the RPI and part of the PCB.
 
 # PCB Soldering
-For designing the printed circuit board, I have made use of the software Fritzing as it is a user friendly software to help design and print my pcb. The printed pcb required Gerber files which the printing machine will recognize. <br/>
+For designing the printed circuit board, I have made use of the software Fritzing as it is a user friendly software to help design and print my pcb. The printed pcb required Gerber files which the printing machine will recognize(Can be found here: https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/ManshurRamhith_Lumi.zip.zip) <br/>
 ![Pcb Design](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/pcb1.PNG)
 
 Please make sure to follow the soldering instructions and safety before soldering your pcb. Remember to wear the safety glass. <br/>
