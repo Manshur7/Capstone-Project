@@ -13,7 +13,7 @@
 8.  [Production Testing](#Production-Testing)
 
 # Introduction
-I chose this Lumi Monitor project as it would be a way to help young parents keep track of the optimum conditions required for the well being of their children & as it would make use of intesting types of sensors.
+I chose this Lumi Monitor project as it would be a way to help young parents keep track of the optimum conditions required for the well being of their children & as it would make use of intesting types of sensors.One of the crucial sensors required to achieve out=r ultimate goal was a temperature & Humidity Sensor. As I did not want to use the BME280 due to the available features which were going to be irrelevant to our use. Therefore, I went with the DHT22.
 
 Sensor DHT22/AM2302:<br/>
 ![1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/dht22Sensor.PNG) <br/>
