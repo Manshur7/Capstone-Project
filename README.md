@@ -21,8 +21,10 @@ Sensor DHT22/AM2302:<br/>
 Concerning software, in order to use ssh connection to my raspberry pi, I had to enable ssh and install xrdp on my raspberry pi before I could get connected. Moreover, I developped the code in python therefore had to install the apropriate libraries for the DHT22 to run in Pyhton.More datails about the whole idea can be found under the [Power Up](#Power-Up) section.
 
 # Bill of Materials
-Raspberry Pi 3 Kit $107 <br/>
-DHT22 Temperature & Humidity Sensor $32 <br/>
+Raspberry Pi 3 Kit: <br/>
+DHT22 Temperature & Humidity Sensor: <br/>
+PCB Files: "LINK"<br/>
+Casing files: "LINK"<br/>
 ![1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/budget.PNG)
 
 Proof of purchase for the required components : <br/>
