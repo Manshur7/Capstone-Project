@@ -1,5 +1,7 @@
 # Lumi Monitor - DHT22 Temperature & Humidity Sensor
 
+### System Diagram
+[!systemD](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/systemD.PNG)
 ### Table of Contents
 1.  [Introduction](#Introduction)
 2.  [Bill of Materials/Budget](#Bill-of-Materials) 
