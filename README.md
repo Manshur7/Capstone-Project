@@ -1,4 +1,4 @@
-# Lumi Monitor Capstone-Project
+# Lumi Monitor - DHT22 Temperature & Humidity Sensor
 
 ### Table of Contents
 1.  [Introduction](#Introduction)
@@ -63,3 +63,6 @@ To securely test whether the sensor is working appropriately, here is a checklis
 ![individual test](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/breadboard.PNG)<br/>
 Below is an example of the first run of the circuit connected in this fashion and the direct code:<br/>
 ![test run](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/output.PNG)
+
+# Prodcution Testing
+
