@@ -24,8 +24,10 @@ Concerning software, in order to use ssh connection to my raspberry pi, I had to
 # Bill of Materials
 Raspberry Pi 3 Kit: <br/>
 DHT22 Temperature & Humidity Sensor: <br/>
-PCB Files: "LINK"<br/>
-Casing files: "LINK"<br/>
+PCB Files: [](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/ManshurRamhith_Lumi.zip.zip)<br/>
+Casing files: [1](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/piplus-bottom.stl)<br/>
+                [2](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rasberry%20pi.cdr)<br/>
+                
 ![1](https://github.com/Manshur7/Capstone-Project/blob/master/image%20uploads/budget.PNG)
 
 Proof of purchase for the required components : <br/>
