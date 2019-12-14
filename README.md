@@ -22,9 +22,9 @@ Sensor DHT22/AM2302:<br/>
 Concerning software, in order to use ssh connection to my raspberry pi, I had to enable ssh and install xrdp on my raspberry pi before I could get connected. Moreover, I developped the code in python therefore had to install the apropriate libraries for the DHT22 to run in Pyhton.More datails about the whole idea can be found under the [Power Up](#Power-Up) section.
 
 # Bill of Materials
-Raspberry Pi 3 Kit:[Link to buy RPI](https://www.amazon.ca/CanaKit-Raspberry-Plus-Ultimate-Starter/dp/B07BD4R3WY/ref=sr_1_8?keywords=raspberry+pi+3b%2B&qid=1576352376&sr=8-8) <br/>
-DHT22 Temperature & Humidity Sensor:[Link to buy DHT22](https://www.amazon.ca/DSD-Temperature-Humidity-Arduino-Raspberry/dp/B07CM2VLBK/ref=sr_1_5?keywords=DHt22&qid=1576352512&sr=8-5) <br/>
-PCB Files: [](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/ManshurRamhith_Lumi.zip.zip)<br/>
+Raspberry Pi 3 Kit:[Buy RPI](https://www.amazon.ca/CanaKit-Raspberry-Plus-Ultimate-Starter/dp/B07BD4R3WY/ref=sr_1_8?keywords=raspberry+pi+3b%2B&qid=1576352376&sr=8-8) <br/>
+DHT22 Temperature & Humidity Sensor:[Buy DHT22](https://www.amazon.ca/DSD-Temperature-Humidity-Arduino-Raspberry/dp/B07CM2VLBK/ref=sr_1_5?keywords=DHt22&qid=1576352512&sr=8-5) <br/>
+[PCB Files](https://github.com/Manshur7/Capstone-Project/blob/master/Electronics/ManshurRamhith_Lumi.zip.zip)<br/>
 Casing files: [Bottom](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/piplus-bottom.stl) 
                 [Top](https://github.com/Manshur7/Capstone-Project/blob/master/Documentation/rasberry%20pi.cdr)<br/>
                 
